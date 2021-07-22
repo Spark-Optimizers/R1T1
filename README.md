@@ -31,10 +31,13 @@
 
 ## 🧐 صورت‌بندی سوال <a name = "problem_statement"></a>
 صورت برنامه‌ریزی :
-  find v
-  s.t. Sv=0
-       l <= v <= u
   
+  ```math
+  find \thickspace v\\
+  s.t. \thickspace Sv=0\\
+  \thickspace \thickspace  l \leq v \leq u
+  
+  ```
 
 ## 💡 الگوریتم بهینه‌سازی <a name = "idea"></a>
 روش حل عددی سوال مدل‌سازی شده در قسمت قبل را توضیح و یا به منبعی که از آن استفاده کرده‌اید ارجاع دهید
