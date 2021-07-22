@@ -33,10 +33,9 @@
 صورت برنامه‌ریزی :
   
   ```math
-  find \thickspace v\\
-  s.t. \thickspace Sv=0\\
-  \thickspace \thickspace  l \leq v \leq u
-  
+  find  v\\
+  s.t.  Sv=0\\
+        l <= v <= u
   ```
 
 ## 💡 الگوریتم بهینه‌سازی <a name = "idea"></a>
