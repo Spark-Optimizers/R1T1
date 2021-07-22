@@ -4,19 +4,6 @@
 </p>
 <h3 align="center">تیم اسپارک</h3>
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mtefagh/demos/HEAD)
-  [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/mtefagh/demos/blob/master/LICENSE)
-
-</div>
-
----
-
-<p align="center"> معرفی و توضیح مختصر روش استفاده شده و در صورت تمایل بج‌هایی که علاقه‌مند هستید را به جای بج‌های بالا جایگزین کنید
-    <br> 
-</p>
 
 ## 📝 فهرست مطالب
 - [صورت‌بندی سوال](#problem_statement)
